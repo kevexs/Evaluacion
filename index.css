@@ -3,3 +3,8 @@ table{
     width: 50%;
     margin: auto;
 }
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+}
